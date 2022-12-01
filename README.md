@@ -67,7 +67,7 @@ Connect with Me 🤝🏻 &nbsp;
     
   <div align="center">
   <div align="center">
- <a href="https://www.linkedin.com/in/suvam-adhikary/](https://www.linkedin.com/in/hema-mane-6a6b4a241/">
+ <a href="https://www.linkedin.com/in/hema-mane-6a6b4a241/">
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35"> </a>
 	
 	
