@@ -7,9 +7,9 @@
      <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
      <br/>
       <div style="display:flex">
-     -🌱 I’m currently learning Mern-Stack Development <br/>
-     -👯  I’m looking to collaborate on Frontend applications<br/>
-     -📫  How to reach me: hemamane5376@gmail.com  
+     .🌱 I’m currently learning Mern-Stack Development <br/>
+     .👯  I’m looking to collaborate on Frontend applications<br/>
+     .📫  How to reach me: hemamane5376@gmail.com  
 	
 </p>
 <br/>
