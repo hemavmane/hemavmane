@@ -9,7 +9,7 @@
       <div style="display:flex">
      -🌱 I’m currently learning Mern-Stack Development <br/>
      -👯  I’m looking to collaborate on Frontend applications<br/>
-     -📫  How to reach me: hema.mane5376@gmail.com
+     -📫  How to reach me: <a href="https://www.linkedin.com/in/hema-mane-6a6b4a241/">
 </p>
 <br/>
 
@@ -64,11 +64,10 @@
 
 Connect with Me 🤝🏻 &nbsp;
 </h4>
+   
+  <div align="center">
     
-  <div align="center">
-  <div align="center">
-    <a href="https://www.linkedin.com/in/hema-mane-6a6b4a241/">
-    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35"> </a>
+    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35">   </a>
 	
 	
 
