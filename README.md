@@ -9,8 +9,7 @@
       <div style="display:flex">
      -🌱 I’m currently learning Mern-Stack Development <br/>
      -👯  I’m looking to collaborate on Frontend applications<br/>
-     -📫  How to reach me: hemamane5376@gmail.com
-	adhikary.saheb408@gmail.com
+     -📫  How to reach me: hema.mane5376@gmail.com
 </p>
 <br/>
 
