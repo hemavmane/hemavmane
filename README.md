@@ -29,7 +29,7 @@
 
 <br/>
 <h2>languge and tools</h2>
-<h3>C,HTML,CSS,Javascript,React, Redux,material UI,</h5>
+<h3>HTML,CSS,Javascript,React,Node,Express, Redux,material UI,</h5>
 <div>
       <img src="https://user-images.githubusercontent.com/105298916/205045611-b27bcc58-7af3-4bc9-8917-86412406e61e.png" height="80px" width="80px"/>
    <img src="https://user-images.githubusercontent.com/105298916/205042582-cfcedcd1-c79d-49b0-94fe-d4bfd72de4b9.png" height="80px" width="80px"/>
