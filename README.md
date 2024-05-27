@@ -4,7 +4,7 @@
 <div align="center">
 
 </div>
-     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Frontend+Trainee"></img></a>
+<!--      <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Frontend+Trainee"></img></a> -->
      <br/>
       <div style="display:flex">
      - 🌱 I’m currently working as Mern-Stack Developer <br/>
