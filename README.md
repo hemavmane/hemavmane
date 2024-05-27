@@ -7,8 +7,8 @@
      <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Frontend+Trainee"></img></a>
      <br/>
       <div style="display:flex">
-     - 🌱 I’m currently learning Mern-Stack Development <br/>
-     - 👯  I’m looking to collaborate on Frontend applications<br/>
+     - 🌱 I’m currently working as Mern-Stack Developer <br/>
+     - 👯  I’m looking to collaborate on Frontend  applications<br/>
      - 📫  How to reach me: hemamane5376@gmail.com  
 	
 </p>
@@ -24,12 +24,12 @@
 ✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
 
 
-✔️ Currently looking for opportunities as a Frontend developer to help me learn and grow as a web developer.
+✔️ Currently looking for opportunities as a full stack developer to help me learn and grow as a web developer.
 
 
 <br/>
 <h2>languge and tools</h2>
-<h3>HTML,CSS,Javascript,React,Node,Express, Redux,material UI,</h5>
+<h3>HTML,CSS,Javascript,React,Node,Express, Redux,material UI,MongoDB,React Native</h5>
 <div>
       <img src="https://user-images.githubusercontent.com/105298916/205045611-b27bcc58-7af3-4bc9-8917-86412406e61e.png" height="80px" width="80px"/>
    <img src="https://user-images.githubusercontent.com/105298916/205042582-cfcedcd1-c79d-49b0-94fe-d4bfd72de4b9.png" height="80px" width="80px"/>
